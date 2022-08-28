@@ -1,5 +1,6 @@
-# Travelers Path **(Live Link - https://travelers-path.herokuapp.com/)**
+# Travelers Path 
 
+0) Live Link - https://travelers-path.herokuapp.com/
 1) **Problem statement** - A random graph is generated where nodes represent cities and edges represent either a **Bus route** or a **Plane Route**.
   We are required to find a source to destination path which consumes the least cost.
   But the contraint is that we can only use a **Plane Route once** in a possible path.
